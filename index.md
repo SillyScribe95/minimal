@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+We do **great work** over **a short period of time** to help with your project.
 
-[Link to another page](./another-page.html).
+We specialise in small full-stack solutions to create extra functionality for your business, whether it's a landing page, Wordpress plugin or integrations with apps such as Slack.
 
-There should be whitespace between paragraphs.
+We use [Zoom](https://zoom.us/), [Calendly](https://calendly.com/happy-devs/30m/) and [Toggl](https://toggl.com/) to keep in touch with clients and let them know how work is going.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+We use [Bonsai](https://app.hellobonsai.com/) and [Stripe](https://stripe.com/gb/) to make freelance contracts and payments easy as pie.
 
-# Header 1
+# Recent work:
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- [Interactive Transcript and Subtitles app](https://bedia.tv/order/) -
+  **FullStack, $60/h, Completed 28th Nov 2020 (4 weeks)**
+- [Search the subtitles of a Youtube Page] -
+  **React, $65/h, Completed 14th January 2021 (2 week)**
+- Internal company Slack bot: send -
+  **Python, $600, Completed 14th January 2021 (1 week)**
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> We literally had a proposal, a standard contract, and the completed work within a month. Best team I've ever worked.
 
-### Header 3
+- Andrew Maguire, Bedia
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[Get in touch - Book an intro chat](https://calendly.com/happy-devs/30m/)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<!-- ```
+Get in touch - Book a consultation
+``` -->
